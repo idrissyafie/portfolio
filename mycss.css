@@ -2,6 +2,20 @@
     box-sizing: border-box;
 }
 
+
+
+#apidata{
+    padding-top: 15px;
+    font-family: Space Mono;
+    color: azure;
+}
+
+.search-box{
+    font-family: Space Mono;
+    width: 300px;
+}
+
+
 body{
     background-color:darkslateblue;
     margin:0;
